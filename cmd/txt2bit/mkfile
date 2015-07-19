@@ -1,0 +1,9 @@
+</$objtype/mkfile
+
+TARG=txt2bit
+
+OFILES=\
+	$TARG.$O
+
+</sys/src/cmd/mkone
+

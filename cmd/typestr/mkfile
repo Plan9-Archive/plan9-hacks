@@ -1,0 +1,9 @@
+</$objtype/mkfile
+
+TARG=typestr
+
+OFILES=\
+	main.$O
+
+</sys/src/cmd/mkone
+

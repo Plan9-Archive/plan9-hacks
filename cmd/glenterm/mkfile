@@ -1,0 +1,9 @@
+</$objtype/mkfile
+
+TARG=glen
+
+OFILES=\
+	glen.$O\
+
+</sys/src/cmd/mkone
+

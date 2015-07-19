@@ -1,0 +1,11 @@
+</$objtype/mkfile
+
+FILES=\
+	main\
+	const\
+
+SFILES=${FILES:%=%.s}
+
+OFILES=${FILES:%=%.$O}
+
+</sys/src/cmd/mkone

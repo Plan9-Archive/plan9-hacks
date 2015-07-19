@@ -1,0 +1,24 @@
+</$objtype/mkfile
+
+BROKE=betoec
+TARG=\
+	assert\
+	cmapcube\
+	convt2m\
+	crc32\
+	curalloc\
+	div\
+	exit\
+	float\
+	frame\
+	pass\
+	printms\
+	rot64\
+	sarray\
+	signof\
+	structcopy\
+	varargck\
+	waveform\
+
+</sys/src/cmd/mkmany
+

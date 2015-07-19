@@ -1,0 +1,10 @@
+</$objtype/mkfile
+
+BIN=/$objtype/bin
+TARG=waitbutton
+OFILES=$TARG.$O
+
+</sys/src/cmd/mkone
+
+uninstall:V:
+	rm -f $BIN/$TARG

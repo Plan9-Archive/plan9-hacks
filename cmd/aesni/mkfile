@@ -1,0 +1,12 @@
+objtype=amd64
+</$objtype/mkfile
+
+FILES=\
+	main\
+	aesni\
+
+SFILES=${FILES:%=%.s}
+
+OFILES=${FILES:%=%.$O}
+
+</sys/src/cmd/mkone
